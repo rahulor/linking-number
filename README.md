@@ -26,9 +26,10 @@ python curve.py
 ```
 Look at `inputs.py` to change the parameters.
 
+
 ## Visualization
 <p align="center">
-  <img width="800" src="https://github.com/rahulor/linking-number/assets/69508071/a93f8a23-42b4-48fc-b4a4-9dd77882bfc7" alt>
+  <img width="800" src="https://github.com/rahulor/linking-number/assets/69508071/5b189a41-38eb-4012-858e-60aebd19a550" alt>
 </p>
 <p align="center">
 Lk = 0 if the loops are unlinked, whereas Lk = 1 if they are linked.
