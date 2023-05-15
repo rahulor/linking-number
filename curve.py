@@ -94,7 +94,7 @@ def generate_dataset(seed, fname):
     
 def main():
     # for training
-    seed        = 10
+    from inputs import seed
     print(f'generating dataset for training..')
     generate_dataset(seed, 'train')
     # for testing

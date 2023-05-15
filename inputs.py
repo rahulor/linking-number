@@ -1,7 +1,8 @@
 from scipy.signal import butter
 
+seed = 42
 # -----------------------------------------------------
-ncombination= 10      # number of loop combinations
+ncombination= 2000      # number of loop combinations
 npoints     = 50        # on the curve
 nrotation   = 36
 # setting standard filter requirements.
