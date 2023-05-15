@@ -5,7 +5,7 @@
 
 - [in progress] Classification task using deep neural network
 
-See the [LoopMaker](https://loopmaker.streamlit.app/) app in production!
+See the [linking-number.streamlit.app](https://linking-number.streamlit.app/) app in production!
 
 ## Requirements
 
