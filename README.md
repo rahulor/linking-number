@@ -3,6 +3,8 @@
 - Computes the [linking number](https://en.wikipedia.org/wiki/Linking_number#Gauss's_integral_definition) which can be considered as a label corresponding to a loop-combination.
 - Visualize it from the data-file for further analysis if needed.
 
+- [in progress] Classification task using deep neural network
+
 See the [LoopMaker](https://loopmaker.streamlit.app/) app in production!
 
 ## Requirements
