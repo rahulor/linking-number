@@ -69,4 +69,4 @@ def main(rows=3, columns=5):
 
 #     streamlit run curve.py --server.headless true &  
 if __name__ == "__main__":
-     main(rows=3, columns=5)
+     main(rows=2, columns=5)
