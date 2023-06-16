@@ -9,7 +9,8 @@ st.set_page_config(
      menu_items={
         #'Get Help': 'https://www.extremelycoolapp.com/help',
         #'Report a bug': "https://www.extremelycoolapp.com/bug",
-        'About': "The loop-maker app creates random loops."
+        'About': "The linking number is a numerical invariant that describes the linking of two closed curves in three-dimensional space."
+
      })
 st.markdown("""
         <style>
